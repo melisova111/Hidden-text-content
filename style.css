@@ -6,7 +6,7 @@
 .wrapper{
     display: flex;
     height: 100vh;
-    position: relative;
+    position: relative; 
 } 
 .main{
     display: flex;
